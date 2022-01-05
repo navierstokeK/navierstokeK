@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navierstokeK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Hydrogen Combustion
+- 🌱 I’m currently learning JULIA Programming
 - 💞️ I’m looking to collaborate on CFD Combustion Projects
 
 
